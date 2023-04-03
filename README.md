@@ -1,7 +1,7 @@
 ## Hi, I´m Alejandro, nice to meet you 👋
 
 <img src="https://user-images.githubusercontent.com/97982225/229613152-796a2a83-b778-4b99-a844-7e2145b64130.gif" alt="bJk" width="1000" height="300">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrojimenez012&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrojimenez012" /> </p>
 
 
 ### 👨‍💻 About me
