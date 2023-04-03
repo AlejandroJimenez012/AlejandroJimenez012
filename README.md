@@ -1,7 +1,7 @@
 ## Hi, I´m Alejandro, nice to meet you 👋
 ------------
 
-### 👨‍💻 Sobre mi
+### 👨‍💻 About me
 -------------
 I am a student of software development - Backend, with more than 1 year of training, as self-taught and currently through ONE (Oracle Next Education). With knowledge in the handling of programming languages such as Java and JavaScript, in addition to HTML markup languages and CSS stylesheet language. 
 
