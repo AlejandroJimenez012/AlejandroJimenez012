@@ -6,9 +6,9 @@
 
 ### 👨‍💻 About me
 -------------
-I am a student of software development - Backend, with more than 1 year of training, as self-taught and currently through ONE (Oracle Next Education). With knowledge in the handling of programming languages such as Java and JavaScript, in addition to HTML markup languages and CSS stylesheet language. 
+Software programming student, focused on back-end development. Knowledgeable in handling some of the most used languages in the industry today such as Java and its framework, spring boot, JavaScript and MySQL databases, as well as HTML markup languages and CSS stylesheet language.
 
-I am a person with teamwork, leadership, problem solving, active listening, attention to detail and adaptation to my environment. 
+Excellent organizational skills and ability to work in a team. Very adaptable person to all kinds of environments and clear orientation to objectives. I would like to develop professionally in a company with future projection.
 
 ###  📊 My stats
 ------------
